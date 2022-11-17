@@ -1,5 +1,5 @@
-# Hi there, I'm Minju Jeon 👋
-
+# Hi there 👋
+## ✨ Just get a little better
 - Chungnam National University, double-majored in Consumer Science, Computer Science and Engineering.
 - Backend Developer
 
