@@ -20,7 +20,9 @@
 
 ## 📫 How to reach me:
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-F05A22?style=flat-square&logo=tistory&logoColor=white&link=https://myminju.tistory.com)](https://myminju.tistory.com)
+<!--
 [![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@myzzu)](https://velog.io/@myzzu)
+-->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mjeon7890@gmail.com)](mailto:mjeon7890@gmail.com)
 <br>
