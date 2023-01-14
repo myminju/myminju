@@ -15,7 +15,7 @@
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white) ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ## 📚 Summary
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myminju&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myminju&count_private=true&show_icons=true&theme=vue_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myminju&layout=compact)](https://github.com/myminju/github-readme-stats)
 
 ## 📫 How to reach me:
